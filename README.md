@@ -7,4 +7,4 @@ You can understand the fourier series more easily by analise this GIF from wikip
 I'm also providing ScreenShot of my project here
 
 ![alt-tag](https://github.com/Abhaysardhara/Fourier-Series/blob/master/Screenshot%20(125).png)
-![alt-tag](https://github.com/Abhaysardhara/Fourier-Series/blob/master/Screenshot%20(125).png)
+![alt-tag](https://github.com/Abhaysardhara/Fourier-Series/blob/master/Screenshot%20(126).png)
